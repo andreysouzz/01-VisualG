@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Confeitaria da Isa</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<body>
+		<nav class="menu-dropdown">
+		  <ul class="menu-dropdown__lista">
+			<li><a href="#">bolo</a>
+				<ul class="submenu">
+					<li><a href="#">bolo com brigadeiro</a></li>
+					<li><a href="#">bolo com leite ninho</a></li>
+					<li><a href="#">bolo de cenoura com calda</a></li>
+				</ul>
+			<li><a href="#">cupcake</a>
+			  <ul class="submenu">
+				<li><a href="#">baunilha</a></li>
+				<li><a href="#">morango</a></li>
+				<li><a href="#">chocolate</a></li>
+			  </ul>
+			</li>
+			<li><a href="#">torta de limao</a>
+				<ul class="submenu">
+					<li><a href="#">limao</a></li>
+					<li><a href="#">maracuja</a></li>
+					<li><a href="#">chocolate</a></li></li>
+		  </ul>
+		</nav>
+		  </body>
+	</header>
+	<script>
+		function clickmenu(){
+            if(itens.style.display == 'block'){
+				itens.style.display = 'none'
+			} else{
+				itens.style.display = 'block'
+			}
+		}
+	</script>
+	<main>
+		
+		<section class="banner">
+			<h2>Os melhores doces e bolos para sua festa!</h2>
+			<button>Veja nossos produtos</button>
+		</section>
+		<!DOCTYPE html>
+		<html>
+		  <head>
+			<title>Exemplo Flexbox com Imagens Responsivas</title>
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="stylesheet" type="text/css" href="style.css">
+		  </head>
+		  <body>
+			<div class="container">
+			  <div class="box">
+				<img src="bolo.jpg" alt="Imagem 1">
+			  </div>
+			  <div class="box">
+				<img src="cup.jpg" alt="Imagem 2">
+			  </div>
+			  <div class="box">
+				<img src="limao3.jpg" alt="Imagem 3">
+			  </div>
+			</div>
+		  </body>
+		</html>
+		
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width-device-width,initial-scale=1.0">
+		<style>
+			body{
+				background-color:black
+			}
+			 @media screen and (max-width: 800px) {
+				body{
+					background-color:rgb(199, 40, 101);
+				}
+			}
+				@media screen and (max-width: 1000px) {
+				body{
+					background-color:rgb(145, 96, 114);
+				}
+			 }
+			 @media screen and (max-width: 900px) {
+				body{
+					background-color:rgb(180, 143, 157);
+				}
+			}
+		</style>
+	
+	</head>
+	<footer>
+		<p>Confeitaria da Isa &copy; 2023</p>
+	</footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Confeitaria da Isa</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<body>
+		<nav class="menu-dropdown">
+		  <ul class="menu-dropdown__lista">
+			<li><a href="#">bolo</a>
+				<ul class="submenu">
+					<li><a href="#">bolo com brigadeiro</a></li>
+					<li><a href="#">bolo com leite ninho</a></li>
+					<li><a href="#">bolo de cenoura com calda</a></li>
+				</ul>
+			<li><a href="#">cupcake</a>
+			  <ul class="submenu">
+				<li><a href="#">baunilha</a></li>
+				<li><a href="#">morango</a></li>
+				<li><a href="#">chocolate</a></li>
+			  </ul>
+			</li>
+			<li><a href="#">torta de limao</a>
+				<ul class="submenu">
+					<li><a href="#">limao</a></li>
+					<li><a href="#">maracuja</a></li>
+					<li><a href="#">chocolate</a></li></li>
+		  </ul>
+		</nav>
+		  </body>
+	</header>
+	<script>
+		function clickmenu(){
+            if(itens.style.display == 'block'){
+				itens.style.display = 'none'
+			} else{
+				itens.style.display = 'block'
+			}
+		}
+	</script>
+	<main>
+		
+		<section class="banner">
+			<h2>Os melhores doces e bolos para sua festa!</h2>
+			<button>Veja nossos produtos</button>
+		</section>
+		<!DOCTYPE html>
+		<html>
+		  <head>
+			<title>Exemplo Flexbox com Imagens Responsivas</title>
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<link rel="stylesheet" type="text/css" href="style.css">
+		  </head>
+		  <body>
+			<div class="container">
+			  <div class="box">
+				<img src="bolo.jpg" alt="Imagem 1">
+			  </div>
+			  <div class="box">
+				<img src="cup.jpg" alt="Imagem 2">
+			  </div>
+			  <div class="box">
+				<img src="limao3.jpg" alt="Imagem 3">
+			  </div>
+			</div>
+		  </body>
+		</html>
+		
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width-device-width,initial-scale=1.0">
+		<style>
+			body{
+				background-color:black
+			}
+			 @media screen and (max-width: 800px) {
+				body{
+					background-color:rgb(199, 40, 101);
+				}
+			}
+				@media screen and (max-width: 1000px) {
+				body{
+					background-color:rgb(145, 96, 114);
+				}
+			 }
+			 @media screen and (max-width: 900px) {
+				body{
+					background-color:rgb(180, 143, 157);
+				}
+			}
+		</style>
+	
+	</head>
+	<footer>
+		<p>Confeitaria da Isa &copy; 2023</p>
+	</footer>
+</body>
+</html>
+
+
+
+///////////////////////////////////////////////////////////
+
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, sans-serif;
+}
+produto.conteiner{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+@media screen and (max-width: 800px){
+	section,aside {
+	width: 100;
+	padding: 0;
+}
+}
+@media screen and(max-width: 600px){
+	section,aside{
+	width: 100;
+	padding: 0;
+	}
+}
+
+header {
+	background-color: #f78a8a;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+i#burguer{
+	background-color:bisque;
+	color:aqua;
+	display: block;
+	text-align: center;
+	padding: 10px;
+	cursor:pointer;
+}
+
+i#burguer:hover{
+	background-color:beige;
+	   color: black;
+}
+menu ul {
+	list-style: none;
+	display: flex;
+}
+
+menu li {
+	margin-right: 20px;
+}
+
+menu a {
+	color: #333;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+menu a:hover {
+	color: #f66;
+}
+
+.banner {
+	background-image: url(banner.jpg);
+	background-size: cover;
+	height: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: #fff;
+}
+
+.banner h2 {
+	font-size: 3rem;
+	margin-bottom: 30px;
+}
+
+.banner button {
+	background-color: #f66;
+	color: #fcdede;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	font-weight:50px;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+  }
+  
+  .box {
+	flex-basis: calc(33.33% - 20px);
+	margin: 10px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+	.box {
+	  flex-basis: calc(50% - 20px);
+	}
+  }
+  
+  @media only screen and (max-width: 480px) {
+	.box {
+	  flex-basis: calc(100% - 20px);
+	}
+  }
+  
+  img {
+	width: 100%;
+	height: auto;
+	display: block;
+  }
+  .menu-dropdown {
+	background-color: #333;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+  }
+  
+  .menu-dropdown__lista {
+	display: flex;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+  }
+  
+  .menu-dropdown__lista li {
+	margin-right: 20px;
+	position: relative;
+  }
+  
+  .menu-dropdown__lista li:hover .submenu {
+	display: block;
+  }
+  
+  .menu-dropdown__lista a {
+	color: #fff;
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+  }
+  
+  .submenu {
+	background-color: #555;
+	display: none;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 100%;
+	left: 0;
+  }
+  
+  .submenu li {
+	margin: 0;
+  }
+  
+  .submenu a {
+	color: #fff;
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+  }
+  
+  .submenu li:hover {
+	background-color: #444;
+  }
+  
